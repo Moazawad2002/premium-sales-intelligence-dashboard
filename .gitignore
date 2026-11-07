@@ -1,4 +1,6 @@
-# Excel temporary files
+# Excel files & templates
+*.xlsx
+*.xlsm
 ~$*.xlsx
 ~$*.xlsm
 *.tmp
